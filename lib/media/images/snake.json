@@ -1,0 +1,10 @@
+{
+  "framerate": 12,
+  "images": ["lib/media/images/snake.png"],
+  "frames": {"width":40, "height":40, "regX": 20, "regY": 20},
+  "animations": {
+    "head": 0,
+    "body": 1,
+    "tail": 2
+  }
+}
