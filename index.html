@@ -18,9 +18,11 @@
     <script type="application/javascript" src="lib/scenes/loading.js"></script>
     <script type="application/javascript" src="lib/game/game.js"></script>
 
-
+    <script>
+        var game = undefined;
+    </script>
 </head>
-<body onload="new Game('canvas')">
+<body onload="game = new Game('canvas')">
 <canvas id="canvas"></canvas>
 </body>
 </html>
