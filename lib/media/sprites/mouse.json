@@ -1,0 +1,23 @@
+{
+  "framerate": 12,
+  "images": ["lib/media/sprites/mouse.png"],
+  "frames": {"width":48, "height":48, "regX": 24, "regY": 24},
+  "animations": {
+    "down": 0,
+    "down2": 1,
+    "down3": 2,
+    "down4": 3,
+    "left": 4,
+    "left2": 5,
+    "left3": 6,
+    "left4": 7,
+    "right": 8,
+    "right2": 9,
+    "right3": 10,
+    "right4": 11,
+    "up": 12,
+    "up2": 13,
+    "up3": 14,
+    "up4": 15
+  }
+}
