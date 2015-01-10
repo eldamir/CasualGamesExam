@@ -5,6 +5,7 @@
   "animations": {
     "head": 0,
     "body": 1,
-    "tail": 2
+    "tail": 2,
+    "bite": [3,8]
   }
 }
