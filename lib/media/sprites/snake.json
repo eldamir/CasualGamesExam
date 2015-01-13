@@ -6,6 +6,6 @@
     "head": 0,
     "body": 1,
     "tail": 2,
-    "bite": [3,8]
+    "bite": {"frames": [3,8], "next": "head"}
   }
 }
