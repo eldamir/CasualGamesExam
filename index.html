@@ -19,28 +19,27 @@
     <script type="application/javascript" src="lib/scenes/loading.js"></script>
     <script type="application/javascript" src="lib/game/game.js"></script>
 
-    <head>
-        <style>
-            body {
-                background-color:lightgrey;
-                width: 100%;
-                text-align: center;
-            }
-            h1   {color:blue}
-            p    {color:blue}
-            canvas {
-                display: inline;
-            }
-        </style>
-    </head>
+    <style>
+        body {
+            background-color:lightgrey;
+            text-align: center;
+        }
+        h1   {color:blue}
+        p    {color:blue}
+        canvas {
+            display: inline;
+        }
+    </style>
     <script>
         var game = undefined;
     </script>
 </head>
 <body onload="game = new Game('canvas')">
-<h1 align="center">Snake</h1>
-<canvas id="canvas"></canvas>
-<br/>
-<p align="center">Control the snake by using the left and right arrow keys</p>
+<div class="container">
+    <h1 align="center">Snake</h1>
+    <canvas id="canvas"></canvas>
+    <br/>
+    <p align="center">Control the snake by using the left and right arrow keys</p>
+</div>
 </body>
 </html>
