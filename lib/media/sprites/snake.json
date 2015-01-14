@@ -6,6 +6,7 @@
     "head": 0,
     "body": 1,
     "tail": 2,
-    "bite": {"frames": [3,8], "next": "head"}
+    "bite": {"frames": [3,8], "next": "head"},
+    "dead": 9
   }
 }
