@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="120"
+   height="120"
+   id="svg4616"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="background_tiles.svg"
+   inkscape:export-filename="C:\Users\ruben\Dropbox\Datamatiker\casual games\CasualGamesExam\lib\media\sprites\background_tiles.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4618" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.99"
+     inkscape:cx="56.100319"
+     inkscape:cy="46.777963"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-global="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4624"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="40px"
+       spacingy="40px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4621">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-932.3622)">
+    <rect
+       style="fill:#1b4d15;fill-opacity:1;stroke:#1b4d15;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4626-1"
+       width="40"
+       height="40"
+       x="80"
+       y="932.36218"
+       inkscape:export-filename="C:\Users\ruben\Dropbox\Datamatiker\casual games\CasualGamesExam\lib\media\sprites\rect4626-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#1b4d15;fill-opacity:1;stroke:#1b4d15;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4626-8"
+       width="40"
+       height="40"
+       x="80"
+       y="972.36218"
+       inkscape:export-filename="C:\Users\ruben\Dropbox\Datamatiker\casual games\CasualGamesExam\lib\media\sprites\rect4626-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#1b4d15;fill-opacity:1;stroke:#1b4d15;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4626-4"
+       width="40"
+       height="40"
+       x="40"
+       y="932.36218"
+       inkscape:export-filename="C:\Users\ruben\Dropbox\Datamatiker\casual games\CasualGamesExam\lib\media\sprites\rect4626-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#1b4d15;fill-opacity:1;stroke:#1b4d15;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4626-9"
+       width="40"
+       height="40"
+       x="0"
+       y="932.36218"
+       inkscape:export-filename="C:\Users\ruben\Dropbox\Datamatiker\casual games\CasualGamesExam\lib\media\sprites\rect4626-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#1b4d15;fill-opacity:1;stroke:#1b4d15;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4626"
+       width="40"
+       height="40"
+       x="40"
+       y="972.36218"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#1b4d15;fill-opacity:1;stroke:#1b4d15;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4626-91"
+       width="40"
+       height="40"
+       x="0"
+       y="972.36218"
+       inkscape:export-filename="C:\Users\ruben\Dropbox\Datamatiker\casual games\CasualGamesExam\lib\media\sprites\rect4626-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#1b4d15;fill-opacity:1;stroke:#1b4d15;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4626-3"
+       width="40"
+       height="40"
+       x="0"
+       y="1012.3622"
+       inkscape:export-filename="C:\Users\ruben\Dropbox\Datamatiker\casual games\CasualGamesExam\lib\media\sprites\rect4626-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#1b4d15;fill-opacity:1;stroke:#1b4d15;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4626-5"
+       width="40"
+       height="40"
+       x="80"
+       y="1012.3622"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#1b4d15;fill-opacity:1;stroke:#1b4d15;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4626-98"
+       width="40"
+       height="40"
+       x="40"
+       y="1012.3622"
+       inkscape:export-filename="C:\Users\ruben\Dropbox\Datamatiker\casual games\CasualGamesExam\lib\media\sprites\rect4626-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#1f761f;fill-opacity:1;stroke:#803300;stroke-width:0.14231948999999999;stroke-miterlimit:4;stroke-opacity:0"
+       d="m 15.056028,1007.4906 c -1.736139,1.2407 -2.685965,-4.3124 -5.6927786,2.3581 -0.844056,1.8724 -4.240425,-0.9057 -5.69278,-2.3581 -1.452354,-1.4523 -2.78056104,-3.6827 -2.358026,-5.6928 0.382366,-1.81888 2.09184,-3.77458 4.027475,-3.85634 1.86879,-0.0789 -0.328094,-4.77253 4.02333,-4.19442 l 7.6961186,1.02246 c 4.192098,0.55695 8.70855,5.06649 3.86053,8.5309 z"
+       id="path5259"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:export-filename="C:\Users\ruben\Dropbox\Datamatiker\casual games\CasualGamesExam\lib\media\sprites\background_tiles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#008000;fill-opacity:1;stroke:#803300;stroke-width:0.09779669;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 5.9095528,941.90109 c -1.7677821,-0.58155 3.3748732,-1.7797 -4.1200346,-2.14836 -2.10392165,-0.10349 -0.4589306,-1.97619 0.5036876,-2.81432 0.9626089,-0.83814 2.7274858,-1.73202 4.8323485,-1.83169 1.9047567,-0.0902 4.3651377,0.37877 5.0601047,1.21092 0.670931,0.80342 4.574876,-0.81693 5.390208,1.16138 l 1.442045,3.49893 c 0.785474,1.90588 -2.201231,4.51128 -7.137617,2.88735 z"
+       id="path5259-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss" />
+    <path
+       style="fill:#6c5353;fill-opacity:1;stroke:#803300;stroke-width:0.09779669;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 61.730507,944.34406 c -4.402269,-2.65829 4.877377,-4.28387 -2.617531,-4.65253 -2.103921,-0.10349 -0.45893,-1.97619 0.503688,-2.81432 0.962609,-0.83814 2.727486,-1.73202 4.832348,-1.83169 1.904757,-0.0902 5.700697,-2.1254 6.395664,-1.29325 0.670931,0.80342 4.12577,1.52699 4.054649,3.66555 l -0.227404,6.83783 c -0.159097,4.78388 -5.162636,4.78559 -8.306231,2.88735 z"
+       id="path5259-4-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss" />
+    <path
+       style="fill:#483737;fill-opacity:1;stroke:#803300;stroke-width:0.06066899;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 104.07633,953.47165 c 2.41593,-2.17843 1.40524,3.80232 3.17107,-0.7051 0.49567,-1.2653 1.21125,0.0993 1.48443,0.84834 0.27321,0.74902 0.41115,1.99882 0.03,3.30372 -0.34493,1.18085 0.0153,3.89058 -0.59897,4.15523 -0.59309,0.25549 -1.71966,2.22687 -2.91243,1.77258 l -3.81374,-1.45254 c -2.668192,-1.01623 -1.629272,-4.07296 0.0959,-5.62854 z"
+       id="path5259-4-0-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss" />
+    <path
+       style="fill:none;stroke:#5a4012;stroke-width:1.413;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 49.016091,992.99552 c 1.20229,-1.1176 7.32715,-6.499 8.990696,-8.0945 1.663547,-1.5956 0.668485,-2.9059 0.850771,-4.55349 m -0.801203,4.53489 c 0.533981,-0.5057 1.079932,-0.5936 3.778971,-1.7523"
+       id="path5864"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#5a4012;stroke-width:1.413;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 59.415069,999.80399 c -0.325227,-0.82656 -1.838156,-4.99727 -2.310809,-6.14724 -0.472701,-1.14999 -1.234249,-0.75274 -1.965161,-1.06776 m 1.964425,1.03721 c -0.14875,-0.3683 -0.102948,-0.68979 -0.210452,-2.37207"
+       id="path5864-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>
