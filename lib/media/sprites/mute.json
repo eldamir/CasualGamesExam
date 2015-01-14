@@ -1,0 +1,9 @@
+{
+  "framerate": 12,
+  "images": ["lib/media/sprites/mute.png"],
+  "frames": {"width":30, "height":30, "regX": 15, "regY": 15},
+  "animations": {
+    "unmute": 0,
+    "mute": 1
+  }
+}
