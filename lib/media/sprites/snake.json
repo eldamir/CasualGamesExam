@@ -1,7 +1,7 @@
 {
   "framerate": 12,
   "images": ["lib/media/sprites/snake.png"],
-  "frames": {"width":40, "height":40, "regX": 20, "regY": 20},
+  "frames": {"width":20, "height":20, "regX": 10, "regY": 10},
   "animations": {
     "head": 0,
     "body": 1,
