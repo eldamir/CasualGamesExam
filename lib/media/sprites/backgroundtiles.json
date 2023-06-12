@@ -1,6 +1,6 @@
 {
   "framerate": 12,
-  "images": ["lib/media/sprites/background_tiles.png"],
+  "images": ["lib/media/sprites/backgroundtiles.png"],
   "frames": {"width":40, "height":40, "regX": 0, "regY": 0},
   "animations": {
     "tile0": 0,
